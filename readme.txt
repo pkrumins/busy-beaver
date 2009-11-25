@@ -40,7 +40,9 @@ Turing Machines, but for n = 5 this task has currently been impossible.
 While most likely it will be solved for n=5, theorists doubt that it shall
 ever be computed for n=6.
 
-(Continue reading on http://www.catonmat.net/blog/busy-beaver/)
+...
+
+Continue reading on http://www.catonmat.net/blog/busy-beaver/
 
 
 [2]-Example-Busy-Beaver-Turing-Machine-with-2-states--------------------------
